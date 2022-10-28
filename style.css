@@ -1,0 +1,163 @@
+html, body {
+  height: 100%;
+  width: 100%;
+} 
+
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: hsl(0, 0%, 95%);
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Lucida Sans Regular';
+}
+
+main{
+  height: 100vh;
+  width: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.Sedan{
+  background-color: hsl(31, 77%, 52%);
+  height: 60%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.Sedan h2 {
+  margin: 20px;
+  color: hsl(0, 0%, 95%)
+}
+.Sedan P {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.Sedan button{
+  background-color: hsl(31, 77%, 52%);
+}
+
+
+.SUV{
+  background-color: hsl(184, 100%, 22%);
+  height: 60%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.SUV h2 {
+  margin: 20px;
+  color: hsl(0, 0%, 95%);
+}
+.SUV P {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.SUV button{
+  background-color: hsl(184, 100%, 22%);
+}
+
+
+.LUXURY{
+  background-color: hsl(179, 100%, 13%);
+  height: 60%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.LUXURY h2 {
+  margin: 20px;
+  color: hsl(0, 0%, 95%)
+}
+.LUXURY P {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.LUXURY button{
+  background-color: hsl(179, 100%, 13%);
+} 
+
+button{
+  margin-top: 80px;
+  margin-left: 20px;
+  padding: 5%;
+  border-radius: 100px;
+  border-color: hsl(0, 0%, 95%);
+  width: 55%;
+}
+
+
+  height: 100%;
+  width: 100%;
+} */
+
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: hsl(0, 0%, 95%);
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Lucida Sans Regular';
+}
+
+main{
+  height: 100vh;
+  width: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.Sedan{
+  background-color: hsl(31, 77%, 52%);
+  height: 60%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.Sedan h2 {
+  margin: 20px;
+  color: hsl(0, 0%, 95%)
+}
+.Sedan P {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.Sedan button{
+  background-color: hsl(31, 77%, 52%);
+}
+
+
+.SUV{
+  background-color: hsl(184, 100%, 22%);
+  height: 60%;
+  padding-left: 20px;
+
