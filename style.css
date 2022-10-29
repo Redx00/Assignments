@@ -1,0 +1,96 @@
+* {
+  border:0px;
+  margin:0px;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+html, body {
+    margin: 0px;
+    border: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: #BFACE0;
+    color: black;
+    /* box-sizing: border-box; */
+}
+
+header{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    box-shadow: #6b6b6b 0px 0px 0px 0px;
+/*     background-color: #373434; */
+}
+
+.Top_nav a{
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+.Gradient{
+    background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+    height: 50%;
+    width: 100%;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.Gradient img{
+    height: 400px;
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 40%;
+}
+.Section_About_me{
+    margin-top: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.About_me {
+    border: black solid 4px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Section_services{
+    margin-top: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.services {
+    border: black solid 4px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Section_Project{
+    margin-top: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+.Project {
+    border: black solid 4px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+hr{
+    color: black;
+}
+
+footer p{
+    text-align: center;
+}
+
+
